@@ -1900,17 +1900,29 @@ a:hover {
 }
 
 .speaker h3 {
-  font-size: 2.2rem !important;
+  font-size: 2.0rem !important;
   line-height: 1;
-  text-transform: uppercase;
   font-weight: bold;
   color: darkgray;
 }
 
 .speaker h3 span {
+  font-size: 2.3rem
   display: block;
   color: black;
-  line-height: 1.5em;
+}
+
+.speaker h2 {
+  font-size: 1.4rem !important;
+  line-height: 1.5;
+  font-weight: bold;
+  color: darkgray;
+}
+
+.speaker h2 span {
+  font-size: 1.7rem
+  display: block;
+  color: black;
 }
 
 .speaker > .thumbnail {
